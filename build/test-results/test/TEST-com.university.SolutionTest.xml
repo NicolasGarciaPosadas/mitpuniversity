@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.university.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-01T20:50:58" hostname="Laptop-de-Nicolas.local" time="0.029">
+  <properties/>
+  <testcase name="testSolutionCSVMatchesExpected()" classname="com.university.SolutionTest" time="0.029"/>
+  <system-out><![CDATA[➡️ Leyendo desde resources: input.csv
+✅ Archivo generado en: /Users/nico/Austral/Prog2/Practica/tp-6-university-NicolasGarciaPosadas/src/main/resources/solution.csv
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
